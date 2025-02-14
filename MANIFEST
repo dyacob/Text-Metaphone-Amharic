@@ -4,7 +4,6 @@ Changes.md
 CONTRIBUTING.md
 LICENSE
 MANIFEST
-Makefile.PL
 README.md
 SECURITY.md
 examples/amphone-high.pl
